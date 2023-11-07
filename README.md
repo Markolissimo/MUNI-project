@@ -7,7 +7,9 @@ Get the health complaints specific to Gastrointestinal disease cases from 311 da
 
 MUNI project is based on two datasets (311 service requests from 2010 to present, DOHMH New York restaurant inspection results) which were obtained
 from the following sources respectively:
+
 https://data.cityofnewyork.us/Social-Services/311-Service-Requests-from-2010-to-Present/erm2-nwe9
+
 https://data.cityofnewyork.us/Health/DOHMH-New-York-City-Restaurant-Inspection-Results/43nn-pn8j
 
 ## Additional information
